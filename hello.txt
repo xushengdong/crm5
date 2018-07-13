@@ -1,3 +1,10 @@
 hello
+<<<<<<< Updated upstream
 java(bug jiejue)
 world
+=======
+java
+world
+//自己的功能做了一半
+
+>>>>>>> Stashed changes
